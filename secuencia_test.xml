@@ -1,10 +1,11 @@
 <VAST version="3.0">
-    <Ad sequence="1">
+    <Ad id="SOMO_SYNC_1_16">
         <InLine>
             <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 01</AdTitle>
+            <AdTitle>Secuencia Completa 1 al 16</AdTitle>
             <Creatives>
-                <Creative sequence="1">
+                <!-- VIDEO 01 -->
+                <Creative id="vid_01" sequence="1">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -14,15 +15,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="2">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 02</AdTitle>
-            <Creatives>
-                <Creative sequence="2">
+                <!-- VIDEO 02 -->
+                <Creative id="vid_02" sequence="2">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -32,15 +26,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="3">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 03</AdTitle>
-            <Creatives>
-                <Creative sequence="3">
+                <!-- VIDEO 03 -->
+                <Creative id="vid_03" sequence="3">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -50,15 +37,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="4">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 04</AdTitle>
-            <Creatives>
-                <Creative sequence="4">
+                <!-- VIDEO 04 -->
+                <Creative id="vid_04" sequence="4">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -68,15 +48,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="5">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 05</AdTitle>
-            <Creatives>
-                <Creative sequence="5">
+                <!-- VIDEO 05 -->
+                <Creative id="vid_05" sequence="5">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -86,15 +59,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="6">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 06</AdTitle>
-            <Creatives>
-                <Creative sequence="6">
+                <!-- VIDEO 06 -->
+                <Creative id="vid_06" sequence="6">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -104,15 +70,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="7">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 07</AdTitle>
-            <Creatives>
-                <Creative sequence="7">
+                <!-- VIDEO 07 -->
+                <Creative id="vid_07" sequence="7">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -122,15 +81,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="8">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 08</AdTitle>
-            <Creatives>
-                <Creative sequence="8">
+                <!-- VIDEO 08 -->
+                <Creative id="vid_08" sequence="8">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -140,15 +92,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="9">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 09</AdTitle>
-            <Creatives>
-                <Creative sequence="9">
+                <!-- VIDEO 09 -->
+                <Creative id="vid_09" sequence="9">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -158,15 +103,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="10">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 10</AdTitle>
-            <Creatives>
-                <Creative sequence="10">
+                <!-- VIDEO 10 -->
+                <Creative id="vid_10" sequence="10">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -176,15 +114,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="11">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 11</AdTitle>
-            <Creatives>
-                <Creative sequence="11">
+                <!-- VIDEO 11 -->
+                <Creative id="vid_11" sequence="11">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -194,15 +125,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="12">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 12</AdTitle>
-            <Creatives>
-                <Creative sequence="12">
+                <!-- VIDEO 12 -->
+                <Creative id="vid_12" sequence="12">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -212,15 +136,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="13">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 13</AdTitle>
-            <Creatives>
-                <Creative sequence="13">
+                <!-- VIDEO 13 -->
+                <Creative id="vid_13" sequence="13">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -230,15 +147,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="14">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 14</AdTitle>
-            <Creatives>
-                <Creative sequence="14">
+                <!-- VIDEO 14 -->
+                <Creative id="vid_14" sequence="14">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -248,15 +158,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="15">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 15</AdTitle>
-            <Creatives>
-                <Creative sequence="15">
+                <!-- VIDEO 15 -->
+                <Creative id="vid_15" sequence="15">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
@@ -266,15 +169,8 @@
                         </MediaFiles>
                     </Linear>
                 </Creative>
-            </Creatives>
-        </InLine>
-    </Ad>
-    <Ad sequence="16">
-        <InLine>
-            <AdSystem>SOMO</AdSystem>
-            <AdTitle>Video 16</AdTitle>
-            <Creatives>
-                <Creative sequence="16">
+                <!-- VIDEO 16 -->
+                <Creative id="vid_16" sequence="16">
                     <Linear>
                         <Duration>00:00:08</Duration>
                         <MediaFiles>
